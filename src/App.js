@@ -13,9 +13,9 @@ function App() {
         <Header />
         
         <Switch >
-          <Route exact path="/" component={Project} />
-          {/* <Route exact path="/about" component={About} />
-          <Route exact path="/contact" component={Contact} /> */}
+          <Route exact path="/" component={About} />
+          <Route exact path="/projects" component={Project} />
+          <Route exact path="/contact" component={Contact} />
         </Switch>
 
         <Footer />

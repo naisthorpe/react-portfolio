@@ -3,7 +3,9 @@ import "./style.css";
 
 function Footer() {
     return (
-        <h3 className="text-center">Computer Genius</h3>
+        <footer className="fixed-bottom">
+            <h3 className="text-center">Computer Genius</h3>
+        </footer>
     );
 }
 
