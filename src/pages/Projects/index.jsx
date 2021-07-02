@@ -3,7 +3,7 @@ import "./style.css";
 
 function Project() {
     return (
-        <div>
+        <div className="bg-info">
             <h1 className="text-center">Project Area</h1>
         </div>
     );
