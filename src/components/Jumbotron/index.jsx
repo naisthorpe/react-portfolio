@@ -3,8 +3,8 @@ import "./style.css";
 
 function Jumbotron() {
     return (
-        <div className="h-100">
-            <div className="jumbotron jumbotron-fluid bg-info">
+        <div>
+            <div className="jumbotron jumbotron-fluid bg-info pb-2">
                 <div className="container col mb-2">
                     <div className="row align-items-center">
                         <div className="col-md-4 col-xs-12">

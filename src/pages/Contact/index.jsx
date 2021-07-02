@@ -3,7 +3,7 @@ import "./style.css";
 
 function Contact() {
     return (
-        <div className="bg-secondary bg-gradient">
+        <div>
             <h1 className="text-center">Contact Area</h1>
         </div>
     );
