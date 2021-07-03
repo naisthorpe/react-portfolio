@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
     return (
         <>
-            <nav className="navbar navbar-expand navbar-light bg-dark justify-content-center">
+            <nav className="navbar navbar-expand navbar-light bg-dark justify-content-center fixed-bottom">
                 <div id="navbarNavAltMarkup">
                     <div className="navbar-nav">
                         <a className="nav-link text-light fw-bold" href="mailto:aisthorpe@gmail.com"><img className="logo" src="images/email.png" alt="Email Logo"></img></a>
