@@ -19,7 +19,7 @@ function Header() {
                                 <a className="nav-link text-light" href="/contact">Contact</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link text-light" href="#">Resume</a>
+                                <a className="nav-link text-light" href="resume/Aisthorpe, Nicholas - Resume 2021.pdf" download>Resume</a>
                             </li>
                         </ul>
                     </div>
