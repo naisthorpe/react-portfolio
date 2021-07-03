@@ -1,0 +1,10 @@
+.bg-green {
+    /*background-color: #787D33;*/
+    background-image: linear-gradient(to right, #4B5320, #9c9e7b);
+}
+
+@media screen and (max-width: 420px) {
+    .bg-green {
+        background-image: linear-gradient(#4B5320, #9c9e7b);
+    }
+}

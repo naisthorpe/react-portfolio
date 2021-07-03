@@ -1,17 +1,18 @@
 import React from "react";
 import "./style.css";
 
-function Contact() {
+function About() {
+
     return (
-        <div className="flex-column">
-            <div className="bg-light restofit">
-                <h1 className="text-center">
+        <section>
+            <div className="bg-light p-5">
+                <h3 className="text-center">
                     Hi, I'm Nick! I have 5 years experience in local government with a focus on Planning and Zoning,
                     as well as Geographic Infomation Systems.
-                </h1>
+                </h3>
             </div>
-        </div>
+        </section>
     );
 }
 
-export default Contact;
+export default About;
