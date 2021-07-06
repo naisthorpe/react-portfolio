@@ -1,6 +1,6 @@
 {
   "name": "aisthorpe-portfolio",
-  "homepage": "http://naisthorpe.github.io/react-portfolio",
+  "homepage": "https://aisthorpe-portfolio.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "root": "build/",
