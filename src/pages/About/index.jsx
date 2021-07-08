@@ -7,7 +7,7 @@ function About() {
         <section>
             <div className="p-5">
                 <p className="text-center">
-                    Hi, I'm Nick! :)
+                    Hi, I'm Nick!
                 </p>
                 <p className="text-center">
                     I have a background in Geographic Information Systems (GIS) with 5 years of work experience in the NC local government sector. I have worked for 
